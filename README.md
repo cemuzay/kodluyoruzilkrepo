@@ -5,9 +5,24 @@
 ## Installation
 
 ```
-    .font-bold {
-	    font-weight: bold;
-    }
+   git clone https://github.com/cemuzay/kodluyoruzilkrepo
+```
+## Usage
+
+Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
+
+Linux için:
+
+```
+  cd Kodluyoruzilkrepo
+  code .
 ```
 
+## contributing 
+
+Pull requestler kabul edilir.Büyük değişiklikler için,lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
+
+## License 
+
+--MIT--
 
