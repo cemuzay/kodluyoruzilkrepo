@@ -4,6 +4,10 @@
 
 ## Installation
 
-
+```
+    .font-bold {
+	    font-weight: bold;
+    }
+```
 
 
